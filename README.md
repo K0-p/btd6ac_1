@@ -15,7 +15,7 @@ q
   
  /////
  
- Depending on user machine, may need to change pngs to corresponding screenshots
+Depending on user machine, may need to change pngs to corresponding screenshots
  
  main is the working code
  main_v2 will work if you change the time delays to whatever the user machine requires
